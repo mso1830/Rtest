@@ -1,0 +1,18 @@
+{
+    "contents" : "a<-rnorm(100)\nplot(a)",
+    "created" : 1444911550991.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2767076891",
+    "id" : "6925F1B5",
+    "lastKnownWriteTime" : 1444911604,
+    "path" : "~/GitHub/Rtest/rnorm.R",
+    "project_path" : "rnorm.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

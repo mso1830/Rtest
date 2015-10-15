@@ -1,12 +1,12 @@
 {
-    "contents" : "a<-rnorm(100)\nplot(a)",
+    "contents" : "a<-rnorm(100)\nplot(a,xlim = c(-15,15))\n",
     "created" : 1444911550991.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2767076891",
+    "hash" : "3776365663",
     "id" : "6925F1B5",
-    "lastKnownWriteTime" : 1444911604,
+    "lastKnownWriteTime" : 1444911914,
     "path" : "~/GitHub/Rtest/rnorm.R",
     "project_path" : "rnorm.R",
     "properties" : {
